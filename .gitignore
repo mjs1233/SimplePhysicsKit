@@ -365,3 +365,5 @@ FodyWeavers.xsd
 # Ignore main.cpp; it's only used for testing the library.
 main.cpp
 main.hpp
+CMakeLists.txt
+CMakePresets.json
